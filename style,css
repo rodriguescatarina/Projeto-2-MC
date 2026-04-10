@@ -1,0 +1,17 @@
+footer {
+    text-align: center;
+    background: url(https://github.com/dgouvvea/Img/blob/main/A/bg.jpg?raw=true);
+    padding: 20px;
+    color: white;
+}
+
+.container{
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+body{
+    background-color: darkorange;
+}
